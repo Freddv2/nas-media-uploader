@@ -1,0 +1,25 @@
+{
+  "name": "nas-media-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freddv2/nas-media-uploader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freddv2/nas-media-uploader/issues"
+  },
+  "homepage": "https://github.com/Freddv2/nas-media-uploader#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "should": "^13.2.3"
+  }
+}
